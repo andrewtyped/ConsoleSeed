@@ -67,7 +67,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleSeed.Core\ConsoleSeed.Core.csproj">
+    <ProjectReference Include="ConsoleSeed.Core\ConsoleSeed.Core.csproj">
       <Project>{8535a63c-6ee4-4836-a06b-e41c231d4b78}</Project>
       <Name>ConsoleSeed.Core</Name>
     </ProjectReference>
